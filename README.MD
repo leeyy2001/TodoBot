@@ -1,5 +1,9 @@
 #### Telegram to do list bot
 
+#### Frameworks and languages used
+
+ExpressJS | NodeJS | MongoDB | Python | JavaScript
+
 #### Description
 
 The bot acts as a place for users to track their the tasks they want to accomplish. Since most students and non-students use Telegram the most, I felt that developing a bot that tracks their tasks would not hinder their workflow.
